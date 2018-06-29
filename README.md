@@ -2,3 +2,5 @@
 This is a test file :)
 
 Let's get this company started. We Rock IT!
+
+Some other changes made to the file from Atom
